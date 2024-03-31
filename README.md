@@ -13,7 +13,7 @@
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 📧 Meu e-mail: jnovais.dev@gmail.com;
 - 😄 Ela/Dela;
-- 📚 Lendo: Desenvolvimento Ágil Limpo: De volta às origens - Robert Cecil Martin; 
+- 📚 Lendo: Algoritmo e Lógica de Programação - Cengage; 
 - ⚡ Estou em transição de carreira.
 
 
